@@ -1,5 +1,5 @@
 {
-    "usuario": [
+    "usuario": 
         {
             "idusuario": 9,
 			"apelido": "Camila",
@@ -9,5 +9,5 @@
 			"email": "kamy@gmail.com",
 			"perfil": "D"
         }
-            ]
+            
 }
