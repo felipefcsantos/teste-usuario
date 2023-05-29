@@ -9,5 +9,14 @@
 			"email": "antonio@gmail.com",
 			"perfil": "P"
         },
-            
+      "kamy@gmail.com": 
+        {
+            "idusuario": 9,
+			"apelido": "Camila",
+			"nome": "Camila",
+			"sobrenome": "França",
+			"cpf": "4875986254",
+			"email": "kamy@gmail.com",
+			"perfil": "D"
+        } 
 }
