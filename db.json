@@ -1,7 +1,7 @@
 {
-    "antonio@gmail.com": 
+    	"4587996385": 
         {
-            "idusuario": 3,
+            		"idusuario": 1,
 			"apelido": "Tom",
 			"nome": "Antonio",
 			"sobrenome": "França",
@@ -9,14 +9,34 @@
 			"email": "antonio@gmail.com",
 			"perfil": "P"
         },
-      "kamy@gmail.com": 
+     	 "4875986254": 
         {
-            "idusuario": 9,
+            		"idusuario": 2,
 			"apelido": "Camila",
 			"nome": "Camila",
 			"sobrenome": "França",
 			"cpf": "4875986254",
 			"email": "kamy@gmail.com",
 			"perfil": "D"
+        } 
+	 "44986630806": 
+        {
+            		"idusuario": 3,
+			"apelido": "Felipe",
+			"nome": "Felipe",
+			"sobrenome": "Santos",
+			"cpf": "44986630806",
+			"email": "felipec_santos@outlook.com",
+			"perfil": "A"
+        } 
+	 "47179827894": 
+        {
+           		 "idusuario": 4,
+			"apelido": "Fe",
+			"nome": "Fernanda",
+			"sobrenome": "Silva",
+			"cpf": "47179827894",
+			"email": "nanda@gmail.com",
+			"perfil": "R"
         } 
 }
