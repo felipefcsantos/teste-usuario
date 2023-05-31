@@ -38,5 +38,15 @@
 			"cpf": "47179827894",
 			"email": "nanda@gmail.com",
 			"perfil": "R"
+        },
+	 "44986682865": 
+        {
+           		 "idusuario": 5,
+			"apelido": "Iza",
+			"nome": "Izabela",
+			"sobrenome": "Santos",
+			"cpf": "44986682865",
+			"email": "izabela@gmail.com",
+			"perfil": "A"
         } 
 }
